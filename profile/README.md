@@ -1,4 +1,4 @@
-## Hi there 👋
+# Inlights-AI
 
 # Archived on 2023-10-01
 
